@@ -1,0 +1,40 @@
+.topbar{
+background-color: black;
+color: white;
+font-size:25px;
+width: 1000%;
+
+
+right: 0;
+left: 0;
+}
+
+.topbar nav a {
+	text-decoration: none;
+	margin: 0 50px;
+	color: white;
+}
+h1{
+	background-image: url(img_0329.jpg);
+	margin-top: 0px;
+	text-align: center;
+	font-size: 100px;
+	color:white ;
+}
+.ACCUEIL.ACCUEIL.lef{ 
+   margin-top: 30px;
+}
+body{
+margin: 50px;
+}
+#right {
+	margin-left: 30%;
+
+}
+#geste,p {
+	display: inline-block;
+	margin-left: 30px;
+}
+#tc{
+	ma
+}

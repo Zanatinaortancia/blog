@@ -1,0 +1,17 @@
+body{
+	margin:10px 80px;
+}
+nav{
+	justify-content: space-between ;
+}
+.topbar {
+	top:0;
+	left:0;
+	right:0;
+	width:100%;
+	background: white;
+	position: fixed;
+}
+.topbar nav {
+	float: left;
+}
